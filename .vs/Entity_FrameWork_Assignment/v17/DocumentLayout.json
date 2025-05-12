@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Migrations\\20250512063542_airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity_FrameWork_Assignment\\Migrations\\20250512063542_airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\airline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\bagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\bagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\officer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|c:\\users\\idres\\onedrive\\desktop\\advancedc#\\entity_framework_assignment\\entity_framework_assignment\\model\\bagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16ACD407-BF6E-4232-93D5-38D99047EDA3}|Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment.csproj|solutionrelative:entity_framework_assignment\\model\\bagger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CheckPoint.cs",
-              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\CheckPoint.cs",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\CheckPoint.cs",
-              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\CheckPoint.cs",
-              "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\CheckPoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20250512063542_airport.cs",
+              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Migrations\\20250512063542_airport.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Migrations\\20250512063542_airport.cs",
+              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Migrations\\20250512063542_airport.cs",
+              "RelativeToolTip": "Entity_FrameWork_Assignment\\Migrations\\20250512063542_airport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:19:45.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Terminal.cs",
-              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Terminal.cs",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Terminal.cs",
-              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Terminal.cs",
-              "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Terminal.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:16:21.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bagger.cs",
-              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Bagger.cs",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Bagger.cs",
-              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Bagger.cs",
-              "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Bagger.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:12:29.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Passenger.cs",
-              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Passenger.cs",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Passenger.cs",
-              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Passenger.cs",
-              "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Passenger.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:08:30.717Z",
+              "WhenOpened": "2025-05-12T06:35:42.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Program.cs",
-              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Program.cs",
-              "RelativeToolTip": "Entity_FrameWork_Assignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T18:58:52.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Entity_FrameWork_Assignment\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T19:00:16.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Airline.cs",
               "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Airline.cs",
               "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Airline.cs",
               "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Airline.cs",
               "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Airline.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwBwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T19:01:46.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Flight.cs",
               "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Flight.cs",
               "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Flight.cs",
               "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Flight.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T19:05:41.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Officer.cs",
               "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Officer.cs",
               "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Officer.cs",
               "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Officer.cs",
               "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Officer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T19:14:15.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Passenger.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Passenger.cs",
+              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Passenger.cs",
+              "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Passenger.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:08:30.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Terminal.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Terminal.cs",
+              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Terminal.cs",
+              "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Terminal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:16:21.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Program.cs",
+              "RelativeToolTip": "Entity_FrameWork_Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:58:52.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity_FrameWork_Assignment\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:00:16.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Gate.cs",
               "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Gate.cs",
               "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Gate.cs",
               "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Gate.cs",
               "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Gate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T19:18:07.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\CheckPoint.cs",
+              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\CheckPoint.cs",
+              "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\CheckPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:19:45.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bagger.cs",
+              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Bagger.cs",
+              "RelativeDocumentMoniker": "Entity_FrameWork_Assignment\\Model\\Bagger.cs",
+              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\advancedc#\\Entity_FrameWork_Assignment\\Entity_FrameWork_Assignment\\Model\\Bagger.cs",
+              "RelativeToolTip": "Entity_FrameWork_Assignment\\Model\\Bagger.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:12:29.26Z",
               "EditorCaption": ""
             },
             {

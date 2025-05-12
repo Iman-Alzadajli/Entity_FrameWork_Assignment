@@ -4,20 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Entity_FrameWork_Assignment.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace Entity_FrameWork_Assignment.Context
 {
-    class ApplicationDBContext : DbContext
-    {
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //Catalog or database 
-
+ 
+        public class ApplicationDbContext : DbContext
         {
-            optionsBuilder.UseSqlServer("Data Source=ZADJALI\\MSSQLSERVER02;Initial Catalog=ComanyXYZ;Integrated Security=True;Connect Timeout=30;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;");
-        }
+            protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+            {
+                optionsBuilder.UseSqlServer("Data Source=ZADJALI\\MSSQLSERVER02; database = ProductShop ; Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;");
 
-        public DbSet<Airline> Airlines { get; set; }
+
+            }
+
+            public DbSet<Airline> Airlines { get; set; }
         public DbSet<Flight> Flights { get; set; }
         public DbSet<Passenger> Passengers { get; set; }
         public DbSet<Bagger> Baggers { get; set; }

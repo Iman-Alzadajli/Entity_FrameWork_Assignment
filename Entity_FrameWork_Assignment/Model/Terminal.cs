@@ -15,7 +15,7 @@ namespace Entity_FrameWork_Assignment.Model
             Location = location;
         }
 
-        public int TeminalId { get; set; }
+        public int TerminalId { get; set; }
         public string TerName {  get; set; }
 
         public int Capacity { get; set; }

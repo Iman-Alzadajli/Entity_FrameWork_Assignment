@@ -14,7 +14,7 @@ namespace Entity_FrameWork_Assignment.Model
             Location = location;
         }
 
-        public int CheckPointID { get; set; }
+        public int CheckPointId { get; set; }
 
         public int PassengerCapacity { get; set; }
 

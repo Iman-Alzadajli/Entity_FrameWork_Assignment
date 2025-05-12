@@ -14,7 +14,7 @@ namespace Entity_FrameWork_Assignment.Model
             Track_num = track_num;
         }
 
-        public int BaggerID { get; set; }
+        public int BaggerId { get; set; }
         public float weight { get; set; }
 
         public int Track_num { get; set; }

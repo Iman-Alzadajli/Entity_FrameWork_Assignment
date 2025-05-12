@@ -14,7 +14,7 @@ namespace Entity_FrameWork_Assignment.Model
             this.avalible_Status = avalible_Status;
         }
 
-        public int GatID { get; set; }
+        public int GateId { get; set; }
         public string GateName { get; set; }
 
         public string avalible_Status { get; set; }

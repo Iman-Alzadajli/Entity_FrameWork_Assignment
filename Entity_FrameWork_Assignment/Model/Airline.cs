@@ -16,7 +16,7 @@ namespace Entity_FrameWork_Assignment.Model
             Email = email;
         }
 
-        public int AirlID {  get; set; }
+        public int AirlineId {  get; set; }
         public string Namr {  get; set; }
         public int Contect_num {  get; set; }
 
@@ -29,4 +29,3 @@ namespace Entity_FrameWork_Assignment.Model
     }
 
     }
-}
